@@ -6,6 +6,8 @@ TagManager:
   tags:
   - CinemachineTarget
   - Pickupable
+  - place
+  - place1
   layers:
   - Default
   - TransparentFX
