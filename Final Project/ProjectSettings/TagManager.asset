@@ -8,6 +8,9 @@ TagManager:
   - Pickupable
   - place
   - place1
+  - place2
+  - place3
+  - place4
   layers:
   - Default
   - TransparentFX
